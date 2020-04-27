@@ -2,4 +2,4 @@
 
 ## Created by: Miha
 
-[Live Version] (https://agitated-joliot-5bd09f.netlify.app/)
+[Live Version](https://agitated-joliot-5bd09f.netlify.app/)
